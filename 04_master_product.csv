@@ -1,0 +1,5 @@
+ID,Internal Reference,Name,Cost,Sales Price,DJBC Category,Unit of Measure,Costing Method,Product Type
+13170-0001,13170-0001,Kayu,7168,12916,Bahan Baku,Unit(s),average,Storable Product
+13170-0002,13170-0002,Meja,6450,7700,Barang Jadi,Unit(s),average,Storable Product
+13170-0001,13170-0003,Serbuk,7168,12916,Scrap/Reject,Kg,average,Storable Product
+13170-0002,13170-0004,Mesin Bubut,6450,7700,Mesin,Unit(s),average,Storable Product

@@ -1,0 +1,5 @@
+Force Accounting Date,Inventory Reference,Inventories/Location,Inventories / Product,Inventories / ProductName,Inventories / Checked Quantity,Inventories / Product Unit of Measure
+2019-01-01,beginning balance,Physical Locations/WH/Stock,13170-0001,Kayu,178,Unit(s)
+,,Physical Locations/WH/Stock,13170-0002,Meja,50,Unit(s)
+,,Physical Locations/WH/Stock,13170-0003,Serbuk,20,Kg
+,,Physical Locations/WH/Stock,13170-0004,Mesin Bubut,20,Unit(s)
