@@ -1,3 +1,3 @@
-ID,Name,City,Country,Customer,Email,Fax,Is a Company,Mobile,Phone,Internal Reference,State,Street,Street2,Supplier,Zip,Account Payable,Account Receivable
-partner_1,ABDI SEJAHTERA CV,Semarang,Indonesia,TRUE,sejahterai@gmail.com,89029001,TRUE,9355234,2880898,A-00001,,Ahmad Yani,,TRUE,42111,2-110001,1-121001
-partner_2,BERDIKARI. UD,Bandung,Indonesia,TRUE,berdikari.ud@gmail.com,4272633,TRUE,3560539,2438130,B-00001,,Sudirman,,TRUE,29751,2-110001,1-121001
+ID,Name,City,Country,Email,Is a Company,Mobile,Phone,Reference,State,Street,Street2,Zip,Account Payable,Account Receivable
+partner_1,ABDI SEJAHTERA CV,Semarang,Indonesia,sejahterai@gmail.com,TRUE,9355234,2880898,A-00001,,Ahmad Yani,,42111,2110001,1121001
+partner_2,BERDIKARI. UD,Bandung,Indonesia,berdikari.ud@gmail.com,TRUE,3560539,2438130,B-00001,,Sudirman,,29751,2110001,1121001
